@@ -1,0 +1,10 @@
+body {
+  background: lightblue;
+}
+
+div {
+    background: slateblue;
+  & p {
+color: purple;
+  }
+}
